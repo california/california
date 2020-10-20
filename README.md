@@ -17,11 +17,11 @@
 <details> 
  <summary> <b>Where's Julius?</b></summary>
    <ul>
-    <li>[Github](https://github.com/california)</li>
-<li>[Codepen](https://codepen.io/california)</li>
-<li>[Twitter](https://twitter.com/tacy)</li>
-<li>[Medium](https://medium.com/@unsettling)</li>
-<li>[Letterboxd](https://letterboxd.com/1111/)</li>
+    <li><a href="https://github.com/california">Github</a></li>
+    <li><a href="https://codepen.io/california">Codepen</a></li>
+    <li><a href="https://twitter.com/tacy">Twitter</a></li>
+    <li><a href="https://medium.com/@unsettling)>Medium</a></li>
+     <li><a href="https://letterboxd.com/1111/>Letterboxd</a></li>
    </ul>
  </details>
 
