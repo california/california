@@ -2,7 +2,7 @@
 
 * I design and develop front-end web applications
   * I also make some fun programs to automate tasks online 🥰
-* My language of expertiece is definitely JS, more specfificly VueJS/React. 
+* My language of choice is definitely JS, more specifically VueJS/React. 
 
 <details>
  <summary><b> Goals</b></summary>
