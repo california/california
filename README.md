@@ -25,6 +25,11 @@
      <li><a href="https://letterboxd.com/1111/>Letterboxd</a></li>
    </ul>
  </details>
-
+<details>
+ <summary> <b> stats </b> </summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=california&show_icons=true&theme=great-gatsby"> </img>
+ <br>
+</details>
 
 
