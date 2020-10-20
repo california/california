@@ -4,15 +4,17 @@
   * I also make some fun programs to automate tasks online 🥰
 * My language of expertiece is definitely JS, more specfificly VueJS/React. 
 --- 
-### Goals!
 
+<details>
+ <summary><b> Goals</b></summary>
+ 
+ 
 - [x] Master VueJS
 - [ ] Learn Java
 - [ ] Learn Python
 - [ ] Finish my personal site
 - [ ] Give you a ~~hug?~~ an e-hug 😊
-
---- 
+ </details>
 
 <details> 
  <summary> <b>Where's Julius?</b></summary>
