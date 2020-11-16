@@ -20,7 +20,7 @@
    <ul>
     <li><a href="https://github.com/california">Github</a></li>
     <li><a href="https://codepen.io/california">Codepen</a></li>
-    <li><a href="https://twitter.com/tacy">Twitter</a></li>
+    <li><a href="https://twitter.com/70I2">Twitter</a></li>
     <li><a href="https://medium.com/@unsettling">Medium</a></li>
      <li><a href="https://letterboxd.com/1111/">Letterboxd</a></li>
    </ul>
