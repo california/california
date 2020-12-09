@@ -8,7 +8,7 @@
  <summary><b> Goals</b></summary>
  
  
-- [x] Master VueJS
+- [ ] Learn GoLang
 - [ ] Learn Java
 - [ ] Learn Python
 - [ ] Finish my personal site
