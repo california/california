@@ -27,7 +27,7 @@
 <details>
  <summary> <b> stats </b> </summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=juuled&show_icons=true&theme=great-gatsby"> </img>
+  <img src="https://github-readme-stats.vercel.app/api?username=v5&show_icons=true&theme=great-gatsby"> </img>
  <br>
 </details>
 
