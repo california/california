@@ -9,8 +9,9 @@
  
  
 - [ ] Learn GoLang
-- [ ] Learn Java
-- [ ] Learn Python
+- [x] Learn Java
+- [x] Learn Python
+- [ ] Master PHP 
 - [ ] Finish my personal site
 - [ ] Give you a ~~hug?~~ an e-hug 😊
  </details>
