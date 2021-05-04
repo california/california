@@ -21,8 +21,6 @@
    <ul>
     <li><a href="https://github.com/v5">Github</a></li>
     <li><a href="https://codepen.io/california">Codepen</a></li>
-    <li><a href="https://medium.com/@unsettling">Medium</a></li>
-     <li><a href="https://letterboxd.com/1111/">Letterboxd</a></li>
    </ul>
  </details>
 <details>
